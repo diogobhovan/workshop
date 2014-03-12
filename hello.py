@@ -1,3 +1,4 @@
 def heello_world():
 	print("Hello World!")
-heello_world()
+if __name__ == '__main__':
+	heello_world()
